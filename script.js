@@ -32,9 +32,9 @@ document.addEventListener('DOMContentLoaded', function() {
         table2Headers: ["Course Level", "Lesson Type", "Duration", "Price"],
         table2Rows: [
           ["From Zero to A2", "Individual", "1 month (20 lessons)", "3500₴"],
-          ["From Zero to A2", "Group (2–3 students)", "1 month (20 lessons)", "6000₴"],
+          ["Group (2–3 students)", "1 month (20 lessons)", "6000₴"],
           ["From A2 to B2+", "Individual", "3 months (20 lessons/month)", "9000₴ (3000₴/month)"],
-          ["From A2 to B2+", "Group (2–3 students)", "1 month (20 lessons)", "12000₴ (4000₴/month)"]
+          ["Group (2–3 students)", "1 month (20 lessons)", "12000₴ (4000₴/month)"]
         ],
         // Contact translations
         email: "Email:",
