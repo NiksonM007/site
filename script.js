@@ -24,17 +24,17 @@ document.addEventListener('DOMContentLoaded', function() {
         // Table 1 translations
         table1Headers: ["Lesson Type", "Duration", "Price"],
         table1Rows: [
-          ["Trial Lesson", "60 min", "150₴"],
-          ["Individual Lesson", "60 min", "200₴"],
-          ["Group Lesson (2–3 students)", "60 min", "120₴ per student"]
+          ["Trial Lesson", "55 min", "200₴"],
+          ["Individual Lesson", "55 min", "250₴"],
+          ["Group Lesson (2–3 students)", "55 min", "200₴ per student"]
         ],
         // Table 2 translations
         table2Headers: ["Course Level", "Lesson Type", "Duration", "Price"],
         table2Rows: [
-          ["From Zero to A2", "Individual", "1 month (20 lessons)", "3500₴"],
-          ["Group (2–3 students)", "1 month (20 lessons)", "6000₴"],
-          ["From A2 to B2+", "Individual", "3 months (20 lessons/month)", "9000₴ (3000₴/month)"],
-          ["Group (2–3 students)", "1 month (20 lessons)", "12000₴ (4000₴/month)"]
+          ["From Zero to A2", "Individual", "1 month (17 lessons)", "4000₴"],
+          ["Group (2–3 students)", "1 month (17 lessons)", "3200₴/per student"],
+          ["From A2 to B2+", "Individual", "4,5 months (15 lessons/month)", "3750₴/month"],
+          ["Group (2–3 students)", "4,5 months (15 lessons)", "3000₴/month for each student"]
         ],
         // Contact translations
         email: "Email:",
@@ -60,17 +60,17 @@ document.addEventListener('DOMContentLoaded', function() {
         // Table 1 translations
         table1Headers: ["Тип заняття", "Тривалість", "Ціна"],
         table1Rows: [
-          ["Пробний урок", "60 хв", "150₴"],
-          ["Індивідуальне заняття", "60 хв", "200₴"],
-          ["Групове заняття (2–3 студенти)", "60 хв", "120₴ зі студента"]
+          ["Пробний урок", "55 хв", "200₴"],
+          ["Індивідуальне заняття", "55 хв", "250₴"],
+          ["Групове заняття (2–3 студенти)", "55 хв", "200₴ зі студента"]
         ],
         // Table 2 translations
         table2Headers: ["Рівень курсу", "Тип заняття", "Тривалість", "Ціна"],
         table2Rows: [
-          ["З нуля до A2", "Індивідуальні", "1 місяць (20 занять)", "3500₴"],
-          ["Групові (2–3 студенти)", "1 місяць (20 занять)", "6000₴"],
-          ["З A2 до B2+", "Індивідуальні", "3 місяці (20 занять/місяць)", "9000₴ (3000₴/місяць)"],
-          ["Групові (2–3 студенти)", "1 місяць (20 занять)", "12000₴ (4000₴/місяць)"]
+          ["З нуля до A2", "Індивідуальні", "1 місяць (17 занять)", "4000₴"],
+          ["Групові (2–3 студенти)", "1 місяць (17 занять)", "3200₴ зі студента"],
+          ["З A2 до B2+", "Індивідуальні", "4,5 місяці (15 занять/місяць)", "3750₴/місяць"],
+          ["Групові (2–3 студенти)", "4,5 місяць (15 занять/місяць)", "3000₴/місяць зі студента"]
         ],
         // Contact translations
         email: "Email:",
